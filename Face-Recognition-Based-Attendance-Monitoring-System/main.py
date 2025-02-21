@@ -509,8 +509,8 @@ def send_email():
         mess._show(title='Error', message='Please enter a recipient email address.')
         return
 
-    from_email = "yourmail@X_mail.com"  # Update with your email
-    password = "your password"  # Update with your email password
+    from_email = "mmvmogana004@gmail.com"  # Update with your email
+    password = "gulm wlhi mgqr kohu" # Update with your email password
 
     # Create a multipart message
     msg = MIMEMultipart()
